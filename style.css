@@ -98,12 +98,6 @@ body{
     margin-left: 700px;
     margin-top: -200px;
     color: rgb(255, 255, 255);
-    transition: all 0.7s ease;
-}
-
-.text-block-more:hover{
-    color:  #7aff85;
-    animation: rotate 5s linear infinite;
 }
 
 @media screen and (min-width: 2000px) {
